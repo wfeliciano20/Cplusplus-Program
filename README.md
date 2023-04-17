@@ -2,21 +2,17 @@
 
 # Banking APP (Compound Interest Calculator)
 
-This Project is a simple Compound Interest Calculator that prints some reports without monthly payments after opening deposit and with monthly deposits
+The project is a Compound Interest Calculator that generates reports for initial deposits without monthly payments and for deposits with monthly contributions. The program was implemented as an object-oriented application, with a separate class for the CompoundInterest Calculator and the main loop and menu system separated into another file. One of the strengths of the project was the use of OOP concepts in its implementation.
 
-What did you do particularly well?
-I was able to implement an oop application creating a class for the CompoundInterest Calculator and separating the core loop and menu system to another file.
+There are still opportunities to enhance the code by implementing more core class features, such as a copy constructor, destructor, and assignment operator. These improvements would make the code more efficient and robust, making it less susceptible to failures if used in a production application. One possible solution to enhance the code further would be to use pointers.
 
-Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
-My code could be enhanced by implementing more core class features like a copy constructor destructor assingment operator and maybe implement the code utilizing pointers.This improvements will help make this implementation more robust and less prone to failures if the class were to be enhanced and used in a production app.
+The most challenging part of the project was the report generation process using the initial balance and monthly deposits. A considerable amount of time was spent fine-tuning this method. In terms of support, the developer relied on online resources and tools to overcome these challenges.
 
+The skills gained from this project are highly transferable to other projects and coursework. The way of implementing a class and using OOP concepts can be applied to other programming projects.
 
-Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
-The most challenging piece of code to implement was the reports using initial balance only and the other one using initial balance plus monthly deposits.It fine tunnign this methods is where I spend the most time.
+To make the program maintainable, readable, and adaptable, the developer followed a good styling guide and added comments to clarify the program's inner workings. These measures made the program more readable, understandable, and easier to maintain.
 
 
-What skills from this project will be particularly transferable to other projects or course work?
-From this project I could carry forward the way of implementing a class and using the OOP concepts.
 
-How did you make this program maintainable, readable, and adaptable?
-I tried to use good styling guides and added comments where I believe necessary to clarify the programs inner works. By following this styling guides and commenting were appropiate the program is more readable and maintainable since it is more clear how everything works.
+
+
